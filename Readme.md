@@ -11,6 +11,6 @@ Description:
 
 I love the design however, I had issues printing with ABS using the Dragon Toolhead.
 My theory was that this was caused by the air from the hotend fan blowing across the top of the heat block.
-So I redesigned the Cage.
+So I redesigned the Cage (Mantis-Shrimp_Pinky Body - Alternate for Phaetus Dragon Hotend for ABS printing).
 
 Designed in FreeCAD - Realthunder Branch  https://github.com/realthunder/FreeCAD/releases
