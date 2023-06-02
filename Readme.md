@@ -1,6 +1,6 @@
 ## Credit:
 
-This is a fork of https://github.com/PinkysRevenge/Mantis-Shrimp-Pinky/
+This is a fork of https://github.com/PinkysRevenge/Mantis-Shrimp-Pinky/ Awsome design Pinky!
 
 Original idea and design by nehilo on GitHub. Can be found here: https://drive.google.com/file/d/1KHLhYUvODkVxrdv76lzVsDeCy6QFU4UK/view
 Credit to @theotherjimmy#8823 on Discord for the initial modifications
@@ -18,6 +18,12 @@ So I redesigned the Cage (Mantis-Shrimp_Pinky Body - Alternate for Phaetus Drago
 
 The rest of the project uses Pinky's files.
 
-Designed in FreeCAD - Realthunder Branch  https://github.com/realthunder/FreeCAD/releases
+I Remade the Design in FreeCAD - Realthunder Branch  https://github.com/realthunder/FreeCAD/releases because ... I love FreeCAD and I wanted a model with more freedom to modify key features down the road.
 
 <img src="/Images/Mantis-Shrimp_Pinky Body - Alternate for Phaetus Dragon Hotend for ABS printing.PNG" width=300>
+<img src="/Images/ABS_version_Frame-step_file.JPG" width=300>
+
+
+## Simulations:
+
+Im also messing around with some Airflow Simulations which are available at https://www.simscale.com/projects/quinfromcanada/mantis_shrimp/
