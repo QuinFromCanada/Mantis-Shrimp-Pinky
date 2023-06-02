@@ -26,4 +26,4 @@ I Remade the Design in FreeCAD - Realthunder Branch  https://github.com/realthun
 
 ## Simulations:
 
-Im also messing around with some Airflow Simulations which are available at https://www.simscale.com/projects/quinfromcanada/mantis_shrimp/
+Im also messing around with some Airflow Simulations which are available at [https://www.simscale.com/projects/quinfromcanada/mantis_shrimp_-_copy/]
