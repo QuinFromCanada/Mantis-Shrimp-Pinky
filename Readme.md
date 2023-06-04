@@ -18,7 +18,7 @@ So I redesigned the Cage (Mantis-Shrimp_Pinky Body - Alternate for Phaetus Drago
 
 The rest of the project uses Pinky's files.
 
-I Remade the Design in FreeCAD - Realthunder Branch  https://github.com/realthunder/FreeCAD/releases because ... I love FreeCAD and I wanted a model with more freedom to modify key features down the road.
+I Remade the Design in FreeCAD - Realthunder Branch  https://github.com/realthunder/FreeCAD/releases because I love FreeCAD and I wanted a model with more freedom to modify key features down the road.
 
 <img src="/Images/Mantis-Shrimp_Pinky Body - Alternate for Phaetus Dragon Hotend for ABS printing.PNG" width=300>
 <img src="/Images/ABS_version_Frame-step_file.JPG" width=300>
@@ -31,19 +31,19 @@ Im also messing around with some Airflow Simulations which are available at [htt
 ## Hardware List (Still working on it)
 
 For Cage and Fans:
-1x NEMA14 36mm pancake Motor with 10 tooth gear (Reuse from old hotend)
-2x 5015 Axial Fans 
-1x 3010 Blower Fan (Reuse from old hotend)
-4x 3MM Heatset Inserts
-1x M3 Nut
-5x M3x25mm
-2x M3x12mm
-2x M3x8mm
-2-4x Hotend mount screws (i think they are M2x10)
+- 1x NEMA14 36mm pancake Motor with 10 tooth gear (Reuse from old hotend)
+- 2x 5015 Axial Fans 
+- 1x 3010 Blower Fan (Reuse from old hotend)
+- 4x 3MM Heatset Inserts
+- 1x M3 Nut
+- 5x M3x25mm
+- 2x M3x12mm
+- 2x M3x8mm
+- 2-4x Hotend mount screws (i think they are M2x10)
 
 Sailfin Hardware: 
-1x BMG hardware kit (Reuse from old hotend)
-... (comming soon, need to take mine apart to see what I used)
+- 1x BMG hardware kit (Reuse from old hotend)
+- ... (comming soon, need to take mine apart to see what I used)
 
 ## What parts to Print:
 
