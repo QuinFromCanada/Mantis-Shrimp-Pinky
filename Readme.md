@@ -40,6 +40,7 @@ For Cage and Fans:
 - 2x M3x12mm
 - 2x M3x8mm
 - 2-4x Hotend mount screws (i think they are M2x10)
+- 28.75 - 29.25mm Bowden tube 2mm ID 4mm OD
 
 Sailfin Hardware: 
 - 1x BMG hardware kit (Reuse from old hotend)
@@ -53,7 +54,6 @@ Sharkfin:
 - Mantis-Shrimp - Pink - Sailfin rear for stock X carriage
 - Mantis-Shrimp Sailfin Mid
 - Mantis-Shrimp Sailfin Rear
-- 28.75 - 29.25mm Bowden tube 2mm ID 4mm OD
 
 X Carriage: (optional but Works really good)
 - Mantis-Shrimp_Pink Optional X Carriage
