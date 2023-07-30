@@ -53,6 +53,7 @@ Sharkfin:
 - Mantis-Shrimp - Pink - Sailfin rear for stock X carriage
 - Mantis-Shrimp Sailfin Mid
 - Mantis-Shrimp Sailfin Rear
+- 28.75 - 29.25mm Bowden tube 2mm ID 4mm OD
 
 X Carriage: (optional but Works really good)
 - Mantis-Shrimp_Pink Optional X Carriage
