@@ -36,7 +36,7 @@ For Cage and Fans:
 - 1x 3010 Blower Fan (Reuse from old hotend)
 - 4x 3MM Heatset Inserts
 - 1x M3 Nut
-- 5x M3x25mm
+- 5x M3x35mm
 - 2x M3x12mm
 - 2x M3x8mm
 - 2-4x Hotend mount screws (i think they are M2x10)
@@ -45,6 +45,12 @@ For Cage and Fans:
 Sailfin Hardware: 
 - 1x BMG hardware kit (Reuse from old hotend)
 - ... (comming soon, need to take mine apart to see what I used)
+
+ADXL345 Hardware:
+- Adafruit ADXL345 (thats the one I use)
+- 2x M2 Nuts
+- 2x M2x6mm or M2x8mm
+- 2x M3x40mm
 
 ## What parts to Print:
 
@@ -64,6 +70,6 @@ OG design:
 - Mantis-Shrimp_Pinky r2 R Duct v##
 
 Quins Remix:
-- Mantis-Shrimp_Pinky Body - Alternate for Phaetus Dragon Hotend for ABS printing
+- Mantis-Shrimp_Pinky Body - Alternate for Phaetus Dragon Hotend for ABS printing v#
 - Mantis-Shrimp_Pinky Duct L - Alternate for Pheatus Dragon Hotend v##
 - Mantis-Shrimp_Pinky Duct R - Alternate for Pheatus Dragon Hotend v##
